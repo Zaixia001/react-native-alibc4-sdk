@@ -56,8 +56,8 @@ dependencies {
     //applink
     implementation 'com.alibaba.sdk.android:alibc_link_partner:4.1.6@aar'
     //ut
-    implementation 'com.taobao.android:utdid4all:1.1.5.3_proguard'
-    implementation 'com.alibaba.mtl:app-monitor-sdk:2.6.4.5_for_bc'
+    //implementation 'com.taobao.android:utdid4all:1.1.5.3_proguard'
+    //implementation 'com.alibaba.mtl:app-monitor-sdk:2.6.4.5_for_bc'
     // 电商基础组件
     implementation 'com.alibaba.sdk.android:AlibcTradeCommon:4.0.0.0@aar'
     implementation 'com.alibaba.sdk.android:AlibcTradeBiz:4.0.0.0@aar'
