@@ -1,5 +1,5 @@
 {
-  "name": "@dddfffppp/react-native-alibcsdk",
+  "name": "@Zaixia001/react-native-alibcsdk",
   "version": "1.0.6",
   "description": "React Native的阿里百川sdk， 包含淘宝授权登录等",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wutian5200/react-native-alibc-sdk.git"
+    "url": "git+https://github.com/Zaixia001/react-native-alibc4-sdk.git"
   },
   "keywords": [
     "react-native",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wutian5200/react-native-alibc-sdk/issues"
+    "url": "https://github.com/Zaixia001/react-native-alibc4-sdk/issues"
   },
-  "homepage": "https://github.com/wutian5200/react-native-alibc-sdk#readme"
+  "homepage": "https://github.com/Zaixia001/react-native-alibc4-sdk#readme"
 }
